@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/12communication/static/js/main.7693e860.js",
+    "static/js/787.a5a00b74.chunk.js": "/12communication/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/12communication/index.html",
+    "main.7693e860.js.map": "/12communication/static/js/main.7693e860.js.map",
+    "787.a5a00b74.chunk.js.map": "/12communication/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7693e860.js"
+  ]
+}
